@@ -9,4 +9,4 @@ PlaceScript = Mods[game.PlaceId]
 
 if PlaceScript then
 loadstring(game:HttpGet(PlaceScript))();
-end
+end -- https://github.com/MuhXd/Roblox-Script-Api/blob/main/LoadScript.lua
